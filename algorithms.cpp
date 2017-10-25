@@ -1,6 +1,6 @@
-#include <iostream.h>
-#include <iomanip.h>
-#include <stdlib.h>
+#include <iostream>
+#include <iomanip>
+#include <stdlib>
 
 void c_to_f(void);
 void f_to_c(void);
